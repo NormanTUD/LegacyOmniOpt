@@ -1,7 +1,0 @@
-Log file: /home/norman/repos/OmniOpt/debuglogs/1
-Dateisystem                              Größe Benutzt Verf. Verw% Eingehängt auf
-/dev/mapper/thinkpad44020211128--vg-root  915G    819G   50G   95% /
-DEBUG:		├ Hostname: thinkpad44020211128
-DEBUG_SUB:	├─get_working_directory()
-[1;34mDEBUG_SUB:	├─[4mautoset_min_gpus_per_worker()[0m
-[1;34mDEBUG_SUB:	├─[4m_help()[0m
