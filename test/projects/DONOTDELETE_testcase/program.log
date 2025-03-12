@@ -1,0 +1,10 @@
+TRYING parameter_code = perl /home/norman/repos/OmniOpt/script/../test/projects/DONOTDELETE_testcase/program/testprogram.pl 5 6 7 8
+Code: perl /home/norman/repos/OmniOpt/script/../test/projects/DONOTDELETE_testcase/program/testprogram.pl 5 6 7 8
+DONE RUNNING CODE
+res: {'res': 'STDOUT:\nhostname (multigpu.sh): thinkpad44020211128\nRESULT: 26\nloss: 0.5\ntestq: 355\nsummiert: 26\n\n\nSTDERR:\n\n\nRETURNCODE:\n0\n\nERRSTR:\n\n', 'stdout': 'hostname (multigpu.sh): thinkpad44020211128\nRESULT: 26\nloss: 0.5\ntestq: 355\nsummiert: 26\n', 'stderr': '', 'retcode': 0, 'errstr': ''}
+code: bash /home/norman/repos/OmniOpt/script/..//tools/multigpu.sh --projectfolder=test/projects/DONOTDELETE_testcase --logfolder=test/projects/DONOTDELETE_testcase/singlelogs/ --account=None --reservation=None --num_gpus=0 --programfile='test/projects/DONOTDELETE_testcase/singlelogs/d357339be01122baab4030c442c8a558.command' --jobname=d357339be01122baab4030c442c8a558 --cpus_per_task=4 
+=========================================
+>>>>>>>>>>>>>>>>>
+Program-Output:
+{'res': 'STDOUT:\nhostname (multigpu.sh): thinkpad44020211128\nRESULT: 26\nloss: 0.5\ntestq: 355\nsummiert: 26\n\n\nSTDERR:\n\n\nRETURNCODE:\n0\n\nERRSTR:\n\n', 'stdout': 'hostname (multigpu.sh): thinkpad44020211128\nRESULT: 26\nloss: 0.5\ntestq: 355\nsummiert: 26\n', 'stderr': '', 'retcode': 0, 'errstr': ''}
+<=======================================>
